@@ -1,0 +1,22 @@
+{
+  "name": "zeshanziya/testprj",
+  "description": "A test project",
+  "type": "project",
+  "autoload": {
+    "psr-4": {
+      "Zeshanziya\\Testprj\\": "src/"
+    }
+  },
+  "require": {
+    "php": ">=8.1"
+  },
+  "authors": [
+    {
+      "name": "Zeshan Ziya",
+      "email": "zeshan.ziya@axelerant.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "Apache-2.0"
+}
